@@ -1,0 +1,26 @@
+C:\Users\T-Gamer\Desktop\POJECT BACKUPS\Projeto Final\Final System\Final System\bin\Debug\Final System.exe.config
+C:\Users\T-Gamer\Desktop\POJECT BACKUPS\Projeto Final\Final System\Final System\bin\Debug\Final System.exe
+C:\Users\T-Gamer\Desktop\POJECT BACKUPS\Projeto Final\Final System\Final System\bin\Debug\Final System.pdb
+C:\Users\T-Gamer\Desktop\POJECT BACKUPS\Projeto Final\Final System\Final System\bin\Debug\EntityFramework.dll
+C:\Users\T-Gamer\Desktop\POJECT BACKUPS\Projeto Final\Final System\Final System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\T-Gamer\Desktop\POJECT BACKUPS\Projeto Final\Final System\Final System\bin\Debug\System.Data.SQLite.dll
+C:\Users\T-Gamer\Desktop\POJECT BACKUPS\Projeto Final\Final System\Final System\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\T-Gamer\Desktop\POJECT BACKUPS\Projeto Final\Final System\Final System\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\T-Gamer\Desktop\POJECT BACKUPS\Projeto Final\Final System\Final System\bin\Debug\EntityFramework.xml
+C:\Users\T-Gamer\Desktop\POJECT BACKUPS\Projeto Final\Final System\Final System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\T-Gamer\Desktop\POJECT BACKUPS\Projeto Final\Final System\Final System\bin\Debug\System.Data.SQLite.xml
+C:\Users\T-Gamer\Desktop\POJECT BACKUPS\Projeto Final\Final System\Final System\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\T-Gamer\Desktop\POJECT BACKUPS\Projeto Final\Final System\Final System\obj\Debug\Final System.csprojResolveAssemblyReference.cache
+C:\Users\T-Gamer\Desktop\POJECT BACKUPS\Projeto Final\Final System\Final System\obj\Debug\Final_System.ADM_Screen.resources
+C:\Users\T-Gamer\Desktop\POJECT BACKUPS\Projeto Final\Final System\Final System\obj\Debug\Final_System.Form1.resources
+C:\Users\T-Gamer\Desktop\POJECT BACKUPS\Projeto Final\Final System\Final System\obj\Debug\Final_System.Properties.Resources.resources
+C:\Users\T-Gamer\Desktop\POJECT BACKUPS\Projeto Final\Final System\Final System\obj\Debug\Final System.csproj.GenerateResource.cache
+C:\Users\T-Gamer\Desktop\POJECT BACKUPS\Projeto Final\Final System\Final System\obj\Debug\Final System.csproj.CoreCompileInputs.cache
+C:\Users\T-Gamer\Desktop\POJECT BACKUPS\Projeto Final\Final System\Final System\obj\Debug\Final System.csproj.CopyComplete
+C:\Users\T-Gamer\Desktop\POJECT BACKUPS\Projeto Final\Final System\Final System\obj\Debug\Final System.exe
+C:\Users\T-Gamer\Desktop\POJECT BACKUPS\Projeto Final\Final System\Final System\obj\Debug\Final System.pdb
+C:\Users\T-Gamer\Desktop\POJECT BACKUPS\Projeto Final\Final System\Final System\obj\Debug\Final_System.Caixa.resources
+C:\Users\T-Gamer\Desktop\POJECT BACKUPS\Projeto Final\Final System\Final System\obj\Debug\Final_System.Clientes.resources
+C:\Users\T-Gamer\Desktop\POJECT BACKUPS\Projeto Final\Final System\Final System\obj\Debug\Final_System.Funcionarios.resources
+C:\Users\T-Gamer\Desktop\POJECT BACKUPS\Projeto Final\Final System\Final System\obj\Debug\Final_System.NonADM_Screen.resources
+C:\Users\T-Gamer\Desktop\POJECT BACKUPS\Projeto Final\Final System\Final System\obj\Debug\Final_System.Produtos.resources
